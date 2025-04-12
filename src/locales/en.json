@@ -1,0 +1,12 @@
+{
+    "title": "We value your privacy",
+    "description": "We use cookies to enhance your browsing experience, analyze site traffic, and personalize content. You can choose which cookies to allow. For more details, see our <a href=\"{{privacyPolicyUrl}}\">Privacy Policy</a>.",
+    "acceptAll": "Accept All",
+    "acceptNecessary": "Accept Necessary Only",
+    "customize": "Customize",
+    "saveSettings": "Save Settings",
+    "privacyPolicy": "Privacy Policy",
+    "necessaryCookies": "Necessary Cookies (Always Active)",
+    "analyticsCookies": "Analytics Cookies",
+    "marketingCookies": "Marketing Cookies"
+  }
